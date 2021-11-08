@@ -1,2 +1,2 @@
-# -Interactive-Sound
+# Interactive_Sound
 A demo web page with interactive sound and some basic interactivity
